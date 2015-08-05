@@ -1,0 +1,22 @@
+{
+  "name": "generator-thrbrd",
+  "version": "0.1.0",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "thrbrd/generator-thrbrd",
+  "author": {
+    "name": "thrbrd",
+    "email": "",
+    "url": "https://github.com/thrbrd"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  }
+}
